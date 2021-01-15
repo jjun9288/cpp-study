@@ -1,1 +1,1 @@
-# cpp-study
+# cpp-study during winter semester
