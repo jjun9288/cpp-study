@@ -47,7 +47,7 @@ void AlarmClock::changeTime(Time a){
 	alarmTime = a;
 }
 
-int main() 
+int main()   
 {
 	Time alarm(6,1,1);
 	Time current(12,10,20);
