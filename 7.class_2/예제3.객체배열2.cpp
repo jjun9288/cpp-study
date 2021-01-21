@@ -46,7 +46,7 @@ int main()
 	b3.setPrice(15000);
 	b3.print();
 	
-	Book arr[3] = {
+	Book arr[3] = {  
 		Book("노동의종말",20000),
 		Book("타인의고통",17000),
 		Book("반항인",15000)
