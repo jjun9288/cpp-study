@@ -29,7 +29,7 @@ int main()
 	cout << endl;
 	p1.upAge(1);
 	p2.upAge(1);
-	p3.upAge(1);
+	p3.upAge(1);  
 	p4.upAge(1);
 	cout << "Person 객체 나이 1 증가 후 출력" << endl;
 	p1.print();
