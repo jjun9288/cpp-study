@@ -45,7 +45,7 @@ int main()
 	Car c3(50,3);
 	c3.print();
 	Car c4(100,4,"black");
-	c4.print();
+	c4.print();  
 	cout << endl;
 	c1.upSpeed(10);
 	c2.upSpeed(10);
